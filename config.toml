@@ -4,5 +4,5 @@ vsync = true
 maximized = false
 srgb = false
 idle = true
-frame = "full"
+frame = "buttonless"
 tab = false
