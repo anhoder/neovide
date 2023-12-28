@@ -1,8 +1,8 @@
 wsl = false
 multigrid = true
 vsync = true
-maximized = false
+maximized = true
 srgb = false
 idle = true
-frame = "buttonless"
+frame = "full"
 tab = false
