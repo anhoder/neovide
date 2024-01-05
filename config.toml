@@ -4,5 +4,5 @@ vsync = true
 maximized = true
 srgb = false
 idle = true
-frame = "full"
+frame = "transparent"
 tab = false
